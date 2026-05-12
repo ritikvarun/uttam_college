@@ -1,4 +1,4 @@
-<h1 align="center">🏫 Uttam Group of Institutions — Official Website</h1>
+<h1 align="center">🏫 Uttam Group of Institutions </h1>
 
 <p align="center">
   A fully responsive multi-page college website built with <strong>HTML</strong>, <strong>CSS</strong>, and <strong>JavaScript</strong>.
